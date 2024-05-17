@@ -1,0 +1,12 @@
+container : pour centrer
+container-fluid : pour non centré
+Grid System -->   <div class ="row" >
+			
+			<div class = "col-md-6">
+				paragraph...
+			</div>
+			<div class = "col-md-6">
+				paragraph...
+			</div>
+	
+		  </div>
